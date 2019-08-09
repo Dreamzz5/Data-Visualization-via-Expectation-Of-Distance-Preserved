@@ -21,3 +21,6 @@ filenames = {'Circle','two_moon','tree_300','Spiral','three_clusters','Distorted
 ```
 ![compare](https://github.com/dreamzz5/Data-Visualization-via-Expectation-Of-Distance-Preserved/blob/master/compare_1.png)
 
+## Cluster Result
+
+Loading
