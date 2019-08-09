@@ -15,6 +15,9 @@ Note: this package requires Matlab R2018b or latter. For easy handle this code, 
 filenames = {'Circle','two_moon','tree_300','Spiral','three_clusters','DistortedSShape'};
 ```
 
-
-
+## Serval methods had been compared as follow 
+```
+'Isomap', 'LLE', 'Laplacian', 'MVU', 'CCA', 'LPP', 'NPE', 'LLTSA'
+```
+![compare](https://github.com/dreamzz5/Data-Visualization-via-Expectation-Of-Distance-Preserved/blob/master/compare_1.png)
 
