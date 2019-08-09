@@ -1,0 +1,1 @@
+mex -Dchar16_t=uint16_T -O -largeArrayDims mexeig.c -lmwlapack -lmwblas 
